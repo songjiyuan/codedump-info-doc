@@ -1,0 +1,4 @@
+message Echo {
+  required string content = 1;
+  required int32 value = 2;
+}
